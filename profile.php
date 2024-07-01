@@ -13,19 +13,18 @@ if (!isset($_SESSION["user"])) {
             <div class="account-wrapper mt--100 mt-lg--440">
                 <div class="left-side">
                     <div class="section-header" data-aos="zoom-out-down" data-aos-duration="1200">
-                        <h2 class="title">Welcome</h2>
-                        <a href="logout.php" class="btn btn-warning">Logout</a>
+                        <h2 class="title">You can see current Auction!</h2>
+                        <a href="auction.php" class="btn btn-warning">Visit there..</a>
                     </div>
                     
                 </div>
                 <div class="right-side cl-white">
                     <div class="section-header mb-0">
-                        <h3 class="title mt-0">NEW HERE?</h3>
-                        <p>Sign up and create your Account</p>
+                        <h3 class="title mt-0">Leave account?</h3>
+                        <a href="logout.php" class="btn btn-warning">Logout</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <!--============= Account Section Ends Here =============-->
 <?php require('footer.php'); ?>

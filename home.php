@@ -182,7 +182,7 @@ require('nav.php');
      <!--============= Call In Section Starts Here =============-->
      <section class="call-in-section pt-max-xl-0">
         <div class="container">
-            <div class="call-wrapper cl-white bg_img" data-background="images/call-bg.png"  style="background-image: url(images/call-bg.png);">
+            <div class="call-wrapper cl-white bg_img" data-background="./assets/images/call-bg.png"  style="background-image: url(./assets/images/call-bg.png);">
                 <div class="section-header" data-aos="zoom-out-down" data-aos-duration="1200">
                     <h3 class="title">Register for Free & Start Bidding Now!</h3>
                     <p>From cars to diamonds to iPhones, we have it all.</p>
@@ -215,7 +215,7 @@ require('nav.php');
                     <div class="col-md-6 col-lg-4">
                         <div class="how-item">
                             <div class="how-thumb" data-aos="zoom-out-up" data-aos-duration="1200">
-                                <img src="./assets/how2.png" alt="how">
+                                <img src="./assets/images/how2.png" alt="how">
                             </div>
                             <div class="how-content" data-aos="zoom-out-up" data-aos-duration="1400">
                                 <h4 class="title">Bid</h4>

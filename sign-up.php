@@ -83,7 +83,7 @@ require('hero-section.php');
                             <span class="pass-type"><i class="fas fa-eye"></i></span>
                         </div>
                         <div class="form-group checkgroup mb-30">
-                            <input type="checkbox" name="terms" id="check"><label for="check">The Sbidu Terms of Use apply</label>
+                            <input type="checkbox" name="terms" id="check"><label for="check">The Terms of Use apply</label>
                         </div>
                         <div class="form-group mb-0">
                             <button type="submit" class="custom-button" value="register" name="submit">SIGN UP</button>
