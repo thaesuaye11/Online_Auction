@@ -1,6 +1,6 @@
 <?php
 require('header.php');
-require('nav.php');
+require('nav.php'); 
 require('hero-section.php');
 ?>
     <!--============= About Section Starts Here =============-->
