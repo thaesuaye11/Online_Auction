@@ -177,7 +177,7 @@ require('nav.php');
                 </div>
             </div>
         </section>
-        <!--============= Car Auction Section Ends Here =============-->
+        <!--============= Art Auction Section Ends Here =============-->
 
      <!--============= Call In Section Starts Here =============-->
      <section class="call-in-section pt-max-xl-0">
@@ -239,4 +239,3 @@ require('nav.php');
         </div>
     </section>
     <!--============= How Section Ends Here =============-->
-    <?php require('footer.php');?>
