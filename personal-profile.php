@@ -13,7 +13,7 @@ require('hero-section.php');
                         <div class="user">
                             <div class="thumb-area">
                                 <div class="thumb">
-                                    <img src="./assets/images/dashboard/user.png" alt="user">
+                                    <img src="./assets/images/user.png" alt="user">
                                 </div>
                                 <label for="profile-pic" class="profile-pic-edit"><i class="flaticon-pencil"></i></label>
                                 <input type="file" id="profile-pic" class="d-none">

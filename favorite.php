@@ -12,7 +12,7 @@ require('hero-section.php');
                         <div class="user">
                             <div class="thumb-area">
                                 <div class="thumb">
-                                    <img src="./assets/images/dashboard/user.png" alt="user">
+                                    <img src="./assets/images/user.png" alt="user">
                                 </div>
                                 <label for="profile-pic" class="profile-pic-edit"><i class="flaticon-pencil"></i></label>
                                 <input type="file" id="profile-pic" class="d-none">
@@ -24,25 +24,22 @@ require('hero-section.php');
                         </div>
                         <ul class="dashboard-menu">
                             <li>
-                                <a href="dashboard.html"><i class="flaticon-dashboard"></i>Dashboard</a>
+                                <a href="Dashboard.php"><i class="flaticon-dashboard"></i>Dashboard</a>
                             </li>
                             <li>
-                                <a href="profile.html"><i class="flaticon-settings"></i>Personal Profile </a>
+                                <a href="personal-profile.php"><i class="flaticon-settings"></i>Personal Profile </a>
                             </li>
                             <li>
-                                <a href="my-bid.html"><i class="flaticon-auction"></i>My Bids</a>
+                                <a href="mybid.php"><i class="flaticon-auction"></i>My Bids</a>
                             </li>
                             <li>
-                                <a href="winning-bids.html"><i class="flaticon-best-seller"></i>Winning Bids</a>
+                                <a href="winning-bid.php"><i class="flaticon-best-seller"></i>Winning Bids</a>
                             </li>
                             <li>
-                                <a href="notifications.html"><i class="flaticon-alarm"></i>My Alerts</a>
+                                <a href="alert.php"><i class="flaticon-alarm"></i>My Alerts</a>
                             </li>
                             <li>
-                                <a href="#0" class="active"><i class="flaticon-star"></i>My Favorites</a>
-                            </li>
-                            <li>
-                                <a href="referral.html"><i class="flaticon-shake-hand"></i>Referrals</a>
+                                <a href="favorite.php" class="active"><i class="flaticon-star"></i>My Favorites</a>
                             </li>
                         </ul>
                     </div>
@@ -73,7 +70,7 @@ require('hero-section.php');
                         <div class="col-sm-10 col-md-6">
                             <div class="auction-item-2" data-aos="zoom-out-up" data-aos-duration="1000">
                                 <div class="auction-thumb">
-                                    <a href="./product-details.html"><img src="./assets/images/auction/product/04.png" alt="car"></a>
+                                    <a href="./product-details.html"><img src="./assets/images/art3.png" alt="car"></a>
                                     <a href="#0" class="rating"><i class="far fa-star"></i></a>
                                     <a href="#0" class="bid"><i class="flaticon-auction"></i></a>
                                 </div>
@@ -116,7 +113,7 @@ require('hero-section.php');
                         <div class="col-sm-10 col-md-6">
                             <div class="auction-item-2" data-aos="zoom-out-up" data-aos-duration="1000">
                                 <div class="auction-thumb">
-                                    <a href="./product-details.html"><img src="./assets/images/auction/product/05.png" alt="car"></a>
+                                    <a href="./product-details.html"><img src="./assets/images/art3.png" alt="car"></a>
                                     <a href="#0" class="rating"><i class="far fa-star"></i></a>
                                     <a href="#0" class="bid"><i class="flaticon-auction"></i></a>
                                 </div>
@@ -159,7 +156,7 @@ require('hero-section.php');
                         <div class="col-sm-10 col-md-6">
                             <div class="auction-item-2" data-aos="zoom-out-up" data-aos-duration="1000">
                                 <div class="auction-thumb">
-                                    <a href="./product-details.html"><img src="./assets/images/auction/product/06.png" alt="product"></a>
+                                    <a href="./product-details.html"><img src="./assets/images/art3.png" alt="product"></a>
                                     <a href="#0" class="rating"><i class="far fa-star"></i></a>
                                     <a href="#0" class="bid"><i class="flaticon-auction"></i></a>
                                 </div>
@@ -202,7 +199,7 @@ require('hero-section.php');
                         <div class="col-sm-10 col-md-6">
                             <div class="auction-item-2" data-aos="zoom-out-up" data-aos-duration="1000">
                                 <div class="auction-thumb">
-                                    <a href="./product-details.html"><img src="./assets/images/auction/product/09.png" alt="product"></a>
+                                    <a href="./product-details.html"><img src="./assets/images/art3.png" alt="product"></a>
                                     <a href="#0" class="rating"><i class="far fa-star"></i></a>
                                     <a href="#0" class="bid"><i class="flaticon-auction"></i></a>
                                 </div>
