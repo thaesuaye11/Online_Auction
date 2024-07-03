@@ -32,7 +32,7 @@
                 <div class="header-wrapper">
                     <div class="logo">
                         <a href="./index.html">
-                            <img src="./assets/images/logo5.png" alt="logo" width="20" height="50">
+                            <img src="./assets/images/pg-logo.png" alt="logo" width="20" height="50">
                         </a>
                     </div>
                     <ul class="menu ml-auto">
@@ -71,25 +71,22 @@
                                     <a href="#0">Dashboard</a>
                                     <ul class="submenu">
                                         <li>
-                                            <a href="./dashboard.html">Dashboard</a>
+                                            <a href="./Dashboard.php">Dashboard</a>
                                         </li>
                                         <li>
-                                            <a href="./profile.html">Personal Profile</a>
+                                            <a href="./personal-profile.php">Personal Profile</a>
                                         </li>
                                         <li>
-                                            <a href="./my-bid.html">My Bids</a>
+                                            <a href="./mybid.php">My Bids</a>
                                         </li>
                                         <li>
-                                            <a href="./winning-bids.html">Winning Bids</a>
+                                            <a href="./winning-bid.php">Winning Bids</a>
                                         </li>
                                         <li>
-                                            <a href="./notifications.html">My Alert</a>
+                                            <a href="./alert.php">My Alert</a>
                                         </li>
                                         <li>
-                                            <a href="./my-favorites.html">My Favorites</a>
-                                        </li>
-                                        <li>
-                                            <a href="./referral.html">Referrals</a>
+                                            <a href="./fovorite.php">My Favorites</a>
                                         </li>
                                     </ul>
                                 </li>
